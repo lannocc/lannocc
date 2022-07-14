@@ -12,6 +12,18 @@ Actively looking for work in the Billings, Montana area or remote: [view r√©sum√
 <a title="lannocc on Twitter" href="https://twitter.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/twitter.svg" height="30" width="40" /></a>
 <a title="lannocc on YouTube" href="https://youtube.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/youtube.svg" height="30" width="40" /></a>
 
+## About Me
+
+<details>
+  <summary>Some Artwork I Created... (click to expand)</summary>
+  <img title="k1" src="https://github.com/lannocc/lannocc/raw/main/art/k1.png">
+  <img title="k5" src="https://github.com/lannocc/lannocc/raw/main/art/k5.png">
+  <img title="k12" src="https://github.com/lannocc/lannocc/raw/main/art/k12.png">
+  <img title="k3" src="https://github.com/lannocc/lannocc/raw/main/art/k3.png" width="33%">
+  <img title="k4" src="https://github.com/lannocc/lannocc/raw/main/art/k4.png" width="33%">
+  <img title="k7" src="https://github.com/lannocc/lannocc/raw/main/art/k7.png" width="33%">
+  <img title="k9" src="https://github.com/lannocc/lannocc/raw/main/art/k9.png">
+</details>
 
 ## GitHub Stats
 
