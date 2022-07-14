@@ -19,6 +19,9 @@ Actively looking for work in the Billings, Montana area or remote: [view r√©sum√
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lannocc&langs_count=6&layout=compact&exclude_repo=bitcoin-abc)](https://github.com/lannocc)
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=lannocc&theme=matrix&columns=-1)](https://github.com/lannocc) -->
+
+<!-- [![View Counter](https://komarev.com/ghpvc/?username=lannocc&color=blueviolet)](https://github.com/lannocc) -->
 
 ## The Bigger Ideas
 
