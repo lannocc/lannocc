@@ -2,6 +2,8 @@
 
 ### 👯 I’m currently seeking regular employment (July, 2022)
 
+Actively looking for work in the Billings, Montana area or remote: [view résumé](https://github.com/lannocc/lannocc/blob/main/resume-lannocc-billings2022.pdf)
+
 ## Connect
 
 <a title="lannocc on LinkedIn" href="https://linkedin.com/in/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/linkedin.svg" height="30" width="40" /></a>
