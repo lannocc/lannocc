@@ -12,7 +12,7 @@ Actively looking for work in the Billings, Montana area or remote: [view r√©sum√
 <a title="lannocc on Twitter" href="https://twitter.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/twitter.svg" height="30" width="40" /></a>
 <a title="lannocc on YouTube" href="https://youtube.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/youtube.svg" height="30" width="40" /></a>
 
-## My Story
+## My Story in Software
 
 (click to expand the following the sections)
 
