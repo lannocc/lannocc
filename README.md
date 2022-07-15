@@ -12,17 +12,43 @@ Actively looking for work in the Billings, Montana area or remote: [view r√©sum√
 <a title="lannocc on Twitter" href="https://twitter.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/twitter.svg" height="30" width="40" /></a>
 <a title="lannocc on YouTube" href="https://youtube.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/youtube.svg" height="30" width="40" /></a>
 
-## About Me
+## My Story
 
 (click to expand the following the sections)
 
 <details>
-  <summary><b>Virgo Venture</b></summary>
+  <summary><b>Starting in Seattle</b> (1999-2002)</summary>
+  (details soon)
+</details>
+
+<details>
+  <summary><b>Making it in Montana</b> (2002-2010)</summary>
+  (details soon)
+</details>
+
+<details>
+  <summary><b>Independent Initiative</b> (2010-2013)</summary>
+  <a title="IOVAR Web Platform and Shell" href="https://github.com/lannocc/iovar">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannocc&repo=iovar">
+  </a>
+  (more details soon)
+</details>
+
+<details>
+  <summary><b>Voluntary Ventures</b> (2013-2017)</summary>
   <img title="Virgin Almanac" src="https://github.com/lannocc/lannocc/raw/main/virgin_almanac.png">
 </details>
 
 <details>
-  <summary><b>My Artwork</b></summary>
+  <summary><b>Considering Cryptocurrency</b> (2017-2019)</summary>
+  <a title="Tokens for Bitcoin Cash" href="https://github.com/AlphaGriffin/orbit">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaGriffin&repo=orbit">
+  </a>
+  (more details soon)
+</details>
+
+<details>
+  <summary><b>Arkansas, Art, and K-OS</b> (2019-2022)</summary>
   <img title="k1" src="https://github.com/lannocc/lannocc/raw/main/art/k1.png">
   <img title="k5" src="https://github.com/lannocc/lannocc/raw/main/art/k5.png">
   <img title="k12" src="https://github.com/lannocc/lannocc/raw/main/art/k12.png">
@@ -41,17 +67,4 @@ Actively looking for work in the Billings, Montana area or remote: [view r√©sum√
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=lannocc&theme=matrix&columns=-1)](https://github.com/lannocc) -->
 
 <!-- [![View Counter](https://komarev.com/ghpvc/?username=lannocc&color=blueviolet)](https://github.com/lannocc) -->
-
-## The Bigger Ideas
-
-<a title="IOVAR Web Platform and Shell" href="https://github.com/lannocc/iovar">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannocc&repo=iovar">
-</a>
-<a title="Tokens for Bitcoin Cash" href="https://github.com/AlphaGriffin/orbit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaGriffin&repo=orbit">
-</a>
-
-## More Projects
-
-(see pinned items below)
 
