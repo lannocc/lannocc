@@ -55,7 +55,7 @@ Actively looking for work in the Billings, Montana area or remote: [view r√©sum√
 
 #### Billings Linux Users Group
 (details soon)
-https://user-images.githubusercontent.com/11672586/179314377-f9d87440-a702-478e-928f-e2ec55e388ec.mp4
+[![Watch the video](https://github.com/lannocc/lannocc/raw/main/video/LANNOCC-BLUG-KULR8.png)](https://user-images.githubusercontent.com/11672586/179314377-f9d87440-a702-478e-928f-e2ec55e388ec.mp4)
 
 
 
