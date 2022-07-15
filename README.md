@@ -17,12 +17,12 @@ Actively looking for work in the Billings, Montana area or remote: [view r√©sum√
 (click to expand the following the sections)
 
 <details>
-  <summary><h4>Virgo Venture</h4></summary>
+  <summary><b>Virgo Venture</b></summary>
   <img title="Virgin Almanac" src="https://github.com/lannocc/lannocc/raw/main/virgin_almanac.png">
 </details>
 
 <details>
-  <summary><h4>Artwork I Created</h4></summary>
+  <summary><b>My Artwork</b></summary>
   <img title="k1" src="https://github.com/lannocc/lannocc/raw/main/art/k1.png">
   <img title="k5" src="https://github.com/lannocc/lannocc/raw/main/art/k5.png">
   <img title="k12" src="https://github.com/lannocc/lannocc/raw/main/art/k12.png">
