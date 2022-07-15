@@ -72,7 +72,7 @@ Actively looking for work in the Billings, Montana area or remote: [view r√©sum√
 
 #### Arduinos with Alpha Griffin
 (details soon)
-[![Watch the video](https://img.youtube.com/vi/aZwKoMAQq0c/maxresdefault.jpg)](https://youtu.be/aZwKoMAQq0c)
+[![Watch the video](https://github.com/lannocc/lannocc/raw/main/video/AlphaGriffin-AutoMobile-MTP.png)](https://youtu.be/aZwKoMAQq0c)
 
 #### MTRadio.Net Internet Broadcasting
 (details soon)
