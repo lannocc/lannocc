@@ -16,36 +16,85 @@ Actively looking for work in the Billings, Montana area or remote: [view résum�
 
 *(click to expand the following sections)*
 
+
 <details>
-  <summary><b>Starting in Seattle</b> (1999-2002)</summary>
-  (details soon)
+<summary><b>Childhood Computing</b> (????-1999)</summary>
+
+#### BASIC Beginnings
+(details soon)
+
+#### Jump into Java
+(details soon)
+</details>
+
+
+<details>
+<summary><b>Starting in Seattle</b> (1999-2002)</summary>
+
+#### University of Washington
+(details soon)
+
+#### HCM International and Meta4: From Lake Washington to Madrid
+(details soon)
+</details>
+
+
+<details>
+<summary><b>Making it in Montana</b> (2002-2010)</summary>
+
+#### ATM Express
+(details soon)
+
+#### Payment Alliance
+(details soon)
+</details>
+
+
+<details>
+<summary><b>Independent Initiative</b> (2010-2013)</summary>
+
+#### Billings Linux Users Group
+(details soon)
+
+#### A Web Development Platform
+(details soon)
+<a title="IOVAR Web Platform and Shell" href="https://github.com/lannocc/iovar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannocc&repo=iovar">
+</a>
+</details>
+
+
+<details>
+<summary><b>Voluntary Ventures</b> (2013-2017)</summary>
+
+#### Arduinos with Alpha Griffin
+(details soon)
+[![Watch the video](https://img.youtube.com/vi/aZwKoMAQq0c/maxresdefault.jpg)](https://youtu.be/aZwKoMAQq0c)
+
+#### MTRadio.Net Internet Broadcasting
+(details soon)
+
+#### Tying it Together with Virgo Venture
+(details soon)
+<img title="Virgin Almanac" src="https://github.com/lannocc/lannocc/raw/main/virgin_almanac.png">
 </details>
 
 <details>
-  <summary><b>Making it in Montana</b> (2002-2010)</summary>
-  (details soon)
+<summary><b>Considering Cryptocurrency</b> (2017-2019)</summary>
+
+#### CryptoCoinEx
+(details soon)
+
+#### Aventus Audit
+(details soon)
+
+#### Tokens on Bitcoin Cash
+(details soon)
+<a title="Tokens for Bitcoin Cash" href="https://github.com/AlphaGriffin/orbit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaGriffin&repo=orbit">
+</a>
 </details>
 
-<details>
-  <summary><b>Independent Initiative</b> (2010-2013)</summary>
-  <a title="IOVAR Web Platform and Shell" href="https://github.com/lannocc/iovar">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannocc&repo=iovar">
-  </a>
-  (more details soon)
-</details>
-
-<details>
-  <summary><b>Voluntary Ventures</b> (2013-2017)</summary>
-  <img title="Virgin Almanac" src="https://github.com/lannocc/lannocc/raw/main/virgin_almanac.png">
-</details>
-
-<details>
-  <summary><b>Considering Cryptocurrency</b> (2017-2019)</summary>
-  <a title="Tokens for Bitcoin Cash" href="https://github.com/AlphaGriffin/orbit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaGriffin&repo=orbit">
-  </a>
-  (more details soon)
-</details>
 
 <details>
   <summary><b>Arkansas, Art, and K-OS</b> (2019-2022)</summary>
@@ -58,12 +107,14 @@ Actively looking for work in the Billings, Montana area or remote: [view résum�
   <img title="k9" src="https://github.com/lannocc/lannocc/raw/main/art/k9.png">
 </details>
 
+
 <details>
   <summary><b>Future Focus</b> (2022-????)</summary>
   
 I am actively looking for work in the Billings, Montana area or remote: [view résumé](https://github.com/lannocc/lannocc/blob/main/resume-lannocc-billings2022.pdf)
 
 </details>
+
 
 ## GitHub Stats
 
