@@ -14,7 +14,7 @@ Actively looking for work in the Billings, Montana area or remote: [view r√©sum√
 
 ## My Story in Software
 
-(click to expand the following the sections)
+*(click to expand the following sections)*
 
 <details>
   <summary><b>Starting in Seattle</b> (1999-2002)</summary>
