@@ -83,7 +83,7 @@ Actively looking for work in the Billings, Montana area or remote: [view r√©sum√
 </details>
 
 <details>
-<summary><b>Considering Cryptocurrency</b> (2017-2019)</summary>
+<summary><b>Coding for Cryptocurrency</b> (2017-2019)</summary>
 
 #### CryptoCoinEx
 (details soon)
