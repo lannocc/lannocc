@@ -2,7 +2,7 @@
 
 ### 👯 I’m currently seeking regular employment (July, 2022)
 
-Actively looking for work in the Billings, Montana area or remote: [view résumé](https://github.com/lannocc/lannocc/blob/main/resume-lannocc-billings2022.pdf)
+Actively looking for work in the Billings, Montana area or remote: [view résumé](https://github.com/lannocc/lannocc/raw/main/resume-lannocc-billings2022.pdf)
 
 ## Connect
 
@@ -14,8 +14,15 @@ Actively looking for work in the Billings, Montana area or remote: [view résum�
 
 ## About Me
 
+(click to expand the following the sections)
+
 <details>
-  <summary>Some Artwork I Created... (click to expand)</summary>
+  <summary><h4>Virgo Venture</h4></summary>
+  <img title="Virgin Almanac" src="https://github.com/lannocc/lannocc/raw/main/virgin_almanac.png">
+</details>
+
+<details>
+  <summary><h4>Artwork I Created</h4></summary>
   <img title="k1" src="https://github.com/lannocc/lannocc/raw/main/art/k1.png">
   <img title="k5" src="https://github.com/lannocc/lannocc/raw/main/art/k5.png">
   <img title="k12" src="https://github.com/lannocc/lannocc/raw/main/art/k12.png">
