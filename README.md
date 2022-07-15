@@ -58,6 +58,13 @@ Actively looking for work in the Billings, Montana area or remote: [view résum�
   <img title="k9" src="https://github.com/lannocc/lannocc/raw/main/art/k9.png">
 </details>
 
+<details>
+  <summary><b>Future Focus</b> (2022-????)</summary>
+  
+I am actively looking for work in the Billings, Montana area or remote: [view résumé](https://github.com/lannocc/lannocc/blob/main/resume-lannocc-billings2022.pdf)
+
+</details>
+
 ## GitHub Stats
 
 [![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=lannocc&show_icons=true&theme=moltack&include_all_commits=true&count_private=true)](https://github.com/lannocc)
