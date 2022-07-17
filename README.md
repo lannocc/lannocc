@@ -23,6 +23,7 @@ Actively looking for work in the Billings, Montana area or remote: [view r√©sum√
 <summary><b>Childhood Computing</b> (????-1999)</summary>
 
 #### BASIC Beginnings
+<img align="right" src="https://github.com/lannocc/lannocc/raw/main/equipment/2021-01-06(5).jpg" width="250">
 TRS-80, Commodore 64, Atari 520 ST... these are the machines of my childhood. Even for the time, they were by no means modern. I remember drooling over 386 and 486 computers when I spied them in a store-front window, but I knew we couldn't afford them. Even though plenty of games existed, that's not what was included in the hand-me-down tech that I was still gracious to receive. What was included were manuals, lots of manuals. So if this 10-year-old boy was going find anything interesting to do with these computers, he was going to have to write it himself! That's when I learned BASIC and thus began what was to be a life-long interest in programming.
 
 #### Jump into Java
