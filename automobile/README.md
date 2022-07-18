@@ -10,7 +10,7 @@
   <img src="https://github.com/lannocc/lannocc/raw/main/automobile/IMG_20160524_162811.jpg" width="32%">
 </p>
 <p>
-  <img src="https://github.com/lannocc/lannocc/raw/main/automobile/IMG_20160524_163137.jpg" width="47%" align="right">
+  <img src="https://github.com/lannocc/lannocc/raw/main/automobile/IMG_20160524_163137.jpg" width="46%" align="right">
   <img src="https://github.com/lannocc/lannocc/raw/main/automobile/IMG_20160524_163100.jpg" width="24%">
   <img src="https://github.com/lannocc/lannocc/raw/main/automobile/IMG_20160524_163142.jpg" width="24%">
   <img src="https://github.com/lannocc/lannocc/raw/main/automobile/IMG_20160524_163144.jpg" width="24%">
