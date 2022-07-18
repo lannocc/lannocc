@@ -43,7 +43,11 @@ My junior and senior high school years were spent almost entirely at the local c
 Shortly after beginning studies at U.W. in the fall of '99, I took an on-campus student job with the university's Computing & Communications department. Though starting in a junior technical support position, I soon moved up to providing account support to university staff. It was during this time I met some amazing people and was there during the grand opening of Mary Gates Hall (presented by Bill Gates) -- our new workplace. At U.W. was also where I was first introduced to Unix systems, and after installing Red Hat Linux 6 on my own computer and joining the local Linux User's Group, I was hooked!
 
 #### HCM International and Meta4: From Lake Washington to Madrid
-(details soon)
+It was after my first year at university that I was faced with a difficult choice: stay in school and go into debt, or attempt to get that ideal job which was the main reason I was in school, but without finishing first. I did the latter in October, 2000 when I was hired on at HCM (Human Capital Management) as their youngest ever hire!
+
+HCM was a great place to work, in the beautiful Leschi Park area of Seattle right on the shore of Lake Washington. Specializing in HR software for Fortune 500 companies, we built tools for things like employee satisfaction surveys and complete benefits management. As an international organization, I performed work on defining and coding standards for internationalization (dates, currency, etc.) of our web services.
+
+When HCM partnered with a Spanish company called Meta4, we began to use some of their tools including a JSP tag library. Unfortunately, problems were found in the implementation which we were unable to get resolution on until I identified the root causes by working through the decompiled output of the provided Java classes. This work was vital to our production and significant enough that HCM flew myself and one other developer out to Madrid for two weeks so that we could advise and oversee the solution to our satisfaction. What an amazing experience for 19-year-old me!
 </details>
 
 
