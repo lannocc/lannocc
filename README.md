@@ -45,7 +45,7 @@ Shortly after beginning studies at U.W. in the fall of '99, I took an on-campus 
 #### HCM International and Meta4: From Lake Washington to Madrid
 It was after my first year at university that I was faced with a difficult choice: stay in school and go into debt, or attempt to get that ideal job which was the main reason I was in school, but without finishing first. I did the latter in October, 2000 when I was hired on at HCM (Human Capital Management) as their youngest ever hire!
 
-HCM was a great place to work, in the beautiful Leschi Park area of Seattle right on the shore of Lake Washington. Specializing in HR software for Fortune 500 companies, we built tools for things like employee satisfaction surveys and complete benefits management. As an international organization, I performed work on defining and coding standards for internationalization (dates, currency, etc.) of our web services.
+HCM was a great place to work, in the beautiful Leschi Park area of Seattle right on the shore of Lake Washington. Specializing in HR software for Fortune 500 companies, we built tools for things like employee satisfaction surveys and complete benefits management. As an international organization, I performed work on defining and coding standards for localization (language, dates, currency, etc.) of our web services.
 
 When HCM partnered with a Spanish company called Meta4, we began to use some of their tools including a JSP tag library. Unfortunately, problems were found in the implementation which we were unable to get resolution on until I identified the root causes by working through the decompiled output of the provided Java classes. This work was vital to our production and significant enough that HCM flew myself and one other developer out to Madrid for two weeks so that we could advise and oversee the solution to our satisfaction. What an amazing experience for 19-year-old me!
 </details>
@@ -55,10 +55,12 @@ When HCM partnered with a Spanish company called Meta4, we began to use some of 
 <summary><b>Making it in Montana</b> (2002-2010)</summary>
 
 #### ATM Express
-(details soon)
+It was early 2002 and HCM was struggling to keep us paid on time, apparently just one of many victims succumbing to the after-effects of the dot-com bubble. But thanks to my membership on the SeaJUG (Seattle Java User's Group) mailing list, I was pointed in a new direction: a company called ATM Express in Billings, Montana was hiring. ATM Express had recently transitioned from ASP to a Java-based MVC framework for web services and were seeking to add another developer to their team. I had nothing holding me back in Seattle so they flew me out for an interview and weekend stay in Montana and I immediately fell in love with the place.
+
+At ATM Express I was able to work through some real challenges and grow as a developer. We were recognized two years in a row by Inc. 500 as the largest privately-held ATM distributor in the U.S. At the time, the organization was small enough that I worked on all areas of our software: from core MVC framework, data modeling, web-based reporting and step-by-step wizards, to direct client-server data feeds with financial institutions and ATM event messaging encapsulation.
 
 #### Payment Alliance
-(details soon)
+My work at ATM Express was long term and satisfying, so when we merged with a company called Payment Alliance I played a significant role bringing the two sides of the business (ATM and bankcard/point-of-sale) together in a single cohesive web platform. This started with a week spent in West Palm Beach, Florida gathering requirements for PAI's side of the business and culminated with the development of a new internal event-driven billing system following standard double-entry general accounting principles and PCI compliance. I ultimately left once the major tasks of merging were completed in order to pursue my own business interests but continued to do work for PAI for a couple more years as an independent contractor.
 </details>
 
 
