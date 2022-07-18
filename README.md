@@ -38,7 +38,9 @@ Fresh from the programming classes and with a decent computer, it was time to di
 <summary><b>Starting in Seattle</b> (1999-2002)</summary>
 
 #### University of Washington
-(details soon)
+My junior and senior high school years were spent almost entirely at the local community college, thanks to Washington State's "Running Start" program which covered the tuition. However, after graduating in 1999 I did have a small amount of money, enough to cover first year at university, so I applied and was accepted to University of Washington.
+
+Shortly after beginning studies at U.W. in the fall of '99, I took an on-campus student job with the university's Computing & Communications department. Though starting in a junior technical support position, I soon moved up to providing account support to university staff. It was during this time I met some amazing people and was there during the grand opening of Mary Gates Hall (presented by Bill Gates) -- our new workplace. At U.W. was also where I was first introduced to Unix systems, and after installing Red Hat Linux 6 on my own computer and joining the local Linux User's Group, I was hooked!
 
 #### HCM International and Meta4: From Lake Washington to Madrid
 (details soon)
@@ -63,8 +65,6 @@ Fresh from the programming classes and with a decent computer, it was time to di
 (details soon)
 [![Watch the video](https://github.com/lannocc/lannocc/raw/main/blug/LANNOCC-BLUG-KULR8.png)](https://user-images.githubusercontent.com/11672586/179314377-f9d87440-a702-478e-928f-e2ec55e388ec.mp4)
 
-
-
 #### A Web Development Platform
 (details soon)
 <a title="IOVAR Web Platform and Shell" href="https://github.com/lannocc/iovar">
@@ -87,6 +87,7 @@ Fresh from the programming classes and with a decent computer, it was time to di
 (details soon)
 <img title="Virgin Almanac" src="https://github.com/lannocc/lannocc/raw/main/virgin_almanac.png">
 </details>
+
 
 <details>
 <summary><b>Coding for Cryptocurrency</b> (2017-2019)</summary>
