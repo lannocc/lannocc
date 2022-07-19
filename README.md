@@ -39,7 +39,7 @@ Fresh from the programming classes and with a decent computer, it was time to di
 
 #### University of Washington
 <p>
-<img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/uw.jpg">
+<img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/uw.jpg" width="200">
 My junior and senior high school years were spent almost entirely at the local community college, thanks to Washington State's "Running Start" program which covered the tuition. However, after graduating in 1999 I did have a small amount of money, enough to cover first year at university, so I applied and was accepted to University of Washington.
 </p>
 <p>
@@ -49,10 +49,10 @@ Shortly after beginning studies at U.W. in the fall of '99, I took an on-campus 
 
 #### HCM International and Meta4: From Lake Washington to Madrid
 <p>
-<img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/hcm.gif">
 It was after my first year at university that I was faced with a difficult choice: stay in school and go into debt, or attempt to get that ideal job which was the main reason I was in school, but without finishing first. I did the latter in October, 2000 when I was hired on at HCM (Human Capital Management) as their youngest ever hire!
 </p>
 <p>
+<img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/hcm.gif">
 HCM was a great place to work, in the beautiful Leschi Park area of Seattle right on the shore of Lake Washington. Specializing in HR software for Fortune 500 companies, we built tools for things like employee satisfaction surveys and complete benefits management. As an international organization, I performed work on defining and coding standards for localization (language, dates, currency, etc.) of our web services.
 </p>
 <p>
