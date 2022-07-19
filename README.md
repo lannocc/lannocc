@@ -56,6 +56,7 @@ It was after my first year at university that I was faced with a difficult choic
 HCM was a great place to work, in the beautiful Leschi Park area of Seattle right on the shore of Lake Washington. Specializing in HR software for Fortune 500 companies, we built tools for things like employee satisfaction surveys and complete benefits management. As an international organization, I performed work on defining and coding standards for localization (language, dates, currency, etc.) of our web services.
 </p>
 <p>
+<img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/meta4.jpg" width="200">
 When HCM partnered with a Spanish company called Meta4, we began to use some of their tools including a JSP tag library. Unfortunately, problems were found in the implementation which we were unable to get resolution on until I identified the root causes by working through the decompiled output of the provided Java classes. This work was vital to our production and significant enough that HCM flew myself and one other developer out to Madrid for two weeks so that we could advise and oversee the solution to our satisfaction. What an amazing experience for 19-year-old me!
 </p>
 </details>
