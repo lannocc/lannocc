@@ -38,16 +38,26 @@ Fresh from the programming classes and with a decent computer, it was time to di
 <summary><b>Starting in Seattle</b> (1999-2002)</summary>
 
 #### University of Washington
+<p>
+<img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/uw.jpg">
 My junior and senior high school years were spent almost entirely at the local community college, thanks to Washington State's "Running Start" program which covered the tuition. However, after graduating in 1999 I did have a small amount of money, enough to cover first year at university, so I applied and was accepted to University of Washington.
-
+</p>
+<p>
+<img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/uw-marygates.jpg" width="200">
 Shortly after beginning studies at U.W. in the fall of '99, I took an on-campus student job with the university's Computing & Communications department. Though starting in a junior technical support position, I soon moved up to providing account support to university staff. It was during this time I met some amazing people and was there during the grand opening of Mary Gates Hall (presented by Bill Gates) -- our new workplace. At U.W. was also where I was first introduced to Unix systems, and after installing Red Hat Linux 6 on my own computer and joining the local Linux User's Group, I was hooked!
+</p>
 
 #### HCM International and Meta4: From Lake Washington to Madrid
+<p>
+<img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/hcm.gif">
 It was after my first year at university that I was faced with a difficult choice: stay in school and go into debt, or attempt to get that ideal job which was the main reason I was in school, but without finishing first. I did the latter in October, 2000 when I was hired on at HCM (Human Capital Management) as their youngest ever hire!
-
+</p>
+<p>
 HCM was a great place to work, in the beautiful Leschi Park area of Seattle right on the shore of Lake Washington. Specializing in HR software for Fortune 500 companies, we built tools for things like employee satisfaction surveys and complete benefits management. As an international organization, I performed work on defining and coding standards for localization (language, dates, currency, etc.) of our web services.
-
+</p>
+<p>
 When HCM partnered with a Spanish company called Meta4, we began to use some of their tools including a JSP tag library. Unfortunately, problems were found in the implementation which we were unable to get resolution on until I identified the root causes by working through the decompiled output of the provided Java classes. This work was vital to our production and significant enough that HCM flew myself and one other developer out to Madrid for two weeks so that we could advise and oversee the solution to our satisfaction. What an amazing experience for 19-year-old me!
+</p>
 </details>
 
 
@@ -55,12 +65,20 @@ When HCM partnered with a Spanish company called Meta4, we began to use some of 
 <summary><b>Making it in Montana</b> (2002-2010)</summary>
 
 #### ATM Express
-It was early 2002 and HCM was struggling to keep us paid on time, apparently just one of many victims succumbing to the after-effects of the dot-com bubble. But thanks to my membership on the SeaJUG (Seattle Java User's Group) mailing list, I was pointed in a new direction: a company called ATM Express in Billings, Montana was hiring. ATM Express had recently transitioned from ASP to a Java-based MVC framework for web services and were seeking to add another developer to their team. I had nothing holding me back in Seattle so they flew me out for an interview and weekend stay in Montana and I immediately fell in love with the place.
-
+<p>
+<img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/atmr.gif">
+It was early 2002 and HCM was struggling to keep us paid on time, apparently just one of many victims succumbing to the after-effects of the dot-com bubble. But thanks to my membership on the SeaJUG (Seattle Java User's Group) mailing list, I was pointed in a new direction: a company called ATM Express in Billings, Montana was hiring. ATM Express had recently transitioned from ASP to a Java-based MVC framework for their ATMReports.com web offering and were seeking to add another developer to their team. I had nothing holding me back in Seattle so they flew me out for an interview and weekend stay in Montana and I immediately fell in love with the place.
+</p>
+<p>
+<img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/atme.png">
 At ATM Express I was able to work through some real challenges and grow as a developer. We were recognized two years in a row by Inc. 500 as the largest privately-held ATM distributor in the U.S. At the time, the organization was small enough that I worked on all areas of our software: from core MVC framework, data modeling, web-based reporting and step-by-step wizards, to direct client-server data feeds with financial institutions and ATM event messaging encapsulation.
+</p>
 
 #### Payment Alliance
+<p>
+<img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/pai.gif">
 My work at ATM Express was long term and satisfying, so when we merged with a company called Payment Alliance I played a significant role bringing the two sides of the business (ATM and bankcard/point-of-sale) together into a single cohesive web platform. This started with a week spent in West Palm Beach, Florida gathering requirements for PAI's side of the business and culminated with the development of a new internal event-driven billing system following standard double-entry general accounting principles and PCI compliance. I ultimately left once the major tasks of merging were completed in order to pursue my own business interests but continued to do work for PAI for a couple more years as an independent contractor.
+</p>
 </details>
 
 
