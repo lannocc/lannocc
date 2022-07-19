@@ -71,7 +71,7 @@ When HCM partnered with a Spanish company called Meta4, we began to use some of 
 It was early 2002 and HCM was struggling to keep us paid on time, apparently just one of many victims succumbing to the after-effects of the dot-com bubble. But thanks to my membership on the SeaJUG (Seattle Java User's Group) mailing list, I was pointed in a new direction: a company called ATM Express in Billings, Montana was hiring. ATM Express had recently transitioned from ASP to a Java-based MVC framework for their ATMReports.com web offering and were seeking to add another developer to their team. I had nothing holding me back in Seattle so they flew me out for an interview and weekend stay in Montana and I immediately fell in love with the place.
 </p>
 <p>
-<a title="View Jobs" href="https://github.com/lannocc/lannocc/blob/main/jobs/README.md"><img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/atme.png"></a>
+<a title="View Jobs" href="https://github.com/lannocc/lannocc/blob/main/jobs/README.md"><img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/inc500.jpg" width="200"><img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/atme.png"></a>
 At ATM Express I was able to work through some real challenges and grow as a developer. We were recognized two years in a row by Inc. 500 as the largest privately-held ATM distributor in the U.S. At the time, the organization was small enough that I worked on all areas of our software: from core MVC framework, data modeling, web-based reporting and step-by-step wizards, to direct client-server data feeds with financial institutions and ATM event messaging encapsulation.
 </p>
 
