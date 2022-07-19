@@ -24,7 +24,7 @@ Actively looking for work in the Billings, Montana area or remote: [view r√©sum√
 <summary><b>Childhood Computing</b> (????-1999)</summary>
 
 #### BASIC Beginnings
-<img align="right" src="https://github.com/lannocc/lannocc/raw/main/equipment/2021-01-06(5).jpg" width="200">
+<a title="View Equipment" href="https://github.com/lannocc/lannocc/blob/main/equipment/README.md"><img align="right" src="https://github.com/lannocc/lannocc/raw/main/equipment/2021-01-06(5).jpg" width="200"></a>
 TRS-80, Commodore 64, Atari 520 ST... these are the machines of my childhood. Even for the time, they were by no means modern. I remember drooling over 386 and 486 computers when I spied them in a store-front window, but I knew we couldn't afford them. Even though plenty of games existed, that's not what was included in the hand-me-down tech that I was still gracious to receive. What was included were manuals, lots of manuals. So if this 10-year-old boy was going find anything interesting to do with these computers, he was going to have to write it himself! That's when I learned BASIC and thus began what was to be a life-long interest in programming.
 
 #### Jump into Java
@@ -91,7 +91,7 @@ In April, 2021, <a href="https://github.com/lannocc/lannocc/blob/main/jobs/Brink
 
 #### Billings Linux Users Group
 (details soon)
-[![Watch the video](https://github.com/lannocc/lannocc/raw/main/blug/LANNOCC-BLUG-KULR8.png)](https://user-images.githubusercontent.com/11672586/179314377-f9d87440-a702-478e-928f-e2ec55e388ec.mp4)
+<a title="Play Video" href="https://user-images.githubusercontent.com/11672586/179314377-f9d87440-a702-478e-928f-e2ec55e388ec.mp4"><img src="https://github.com/lannocc/lannocc/raw/main/blug/LANNOCC-BLUG-KULR8.png"></a>
 
 #### A Web Development Platform
 (details soon)
@@ -106,7 +106,7 @@ In April, 2021, <a href="https://github.com/lannocc/lannocc/blob/main/jobs/Brink
 
 #### Arduinos with Alpha Griffin
 (details soon)
-[![Watch the video](https://github.com/lannocc/lannocc/raw/main/automobile/AlphaGriffin-AutoMobile-MTP.png)](https://youtu.be/aZwKoMAQq0c)
+<a title="Play Video" href="https://youtu.be/aZwKoMAQq0c"><img src="https://github.com/lannocc/lannocc/raw/main/automobile/AlphaGriffin-AutoMobile-MTP.png"></a>
 
 #### MTRadio.Net Internet Broadcasting
 (details soon)
