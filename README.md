@@ -80,6 +80,9 @@ At ATM Express I was able to work through some real challenges and grow as a dev
 <img align="right" src="https://github.com/lannocc/lannocc/raw/main/jobs/pai.gif">
 My work at ATM Express was long term and satisfying, so when we merged with a company called Payment Alliance I played a significant role bringing the two sides of the business (ATM and bankcard/point-of-sale) together into a single cohesive web platform. This started with a week spent in West Palm Beach, Florida gathering requirements for PAI's side of the business and culminated with the development of a new internal event-driven billing system following standard double-entry general accounting principles and PCI compliance. I ultimately left once the major tasks of merging were completed in order to pursue my own business interests but continued to do work for PAI for a couple more years as an independent contractor.
 </p>
+<p>
+In April, 2021, <a href="https://github.com/lannocc/lannocc/blob/main/jobs/Brink%E2%80%99s%20Acquires%20Largest%20Privately%20Owned%20Provider%20of%20ATM%20Services%20in%20the%20U.S..pdf">PAI was acquired by Brink's for $213 million</a>.
+</p>
 </details>
 
 
