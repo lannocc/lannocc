@@ -170,8 +170,13 @@ I am actively looking for work in the Billings, Montana area or remote: [view r√
 
 - [Art](https://github.com/lannocc/lannocc/blob/main/art/README.md)
 - [AutoMobile](https://github.com/lannocc/lannocc/blob/main/automobile/README.md)
+- [BillingsLUG](https://github.com/lannocc/lannocc/blob/main/blug/README.md)
 - [CryptoCoinEx](https://github.com/lannocc/lannocc/blob/main/cryptocoinex/README.md)
 - [Equipment](https://github.com/lannocc/lannocc/blob/main/equipment/README.md)
 - [IOVAR](https://github.com/lannocc/lannocc/blob/main/iovar/README.md)
 - [Jobs](https://github.com/lannocc/lannocc/blob/main/jobs/README.md)
 - [K-OS](https://github.com/lannocc/lannocc/blob/main/k-os/README.md)
+- [Misc.](https://github.com/lannocc/lannocc/blob/main/misc/README.md)
+- [MTRadio.Net](https://github.com/lannocc/lannocc/blob/main/mtradio/README.md)
+- [Mupen64Plus](https://github.com/lannocc/lannocc/blob/main/mupen64plus/README.md)
+- [S.A.W. (me)](https://github.com/lannocc/lannocc/blob/main/me/README.md)
