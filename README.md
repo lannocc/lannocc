@@ -169,7 +169,7 @@ I am actively looking for work in the Billings, Montana area or remote: [view r√
 
 ## Visual Portfolio
 
-<a title="S.A.W." href="https://github.com/lannocc/lannocc/blob/main/me/README.md"><img alt="S.A.W." title="S.A.W." src="https://github.com/lannocc/lannocc/raw/main/me/received_685931809239101.jpeg" align="right" width="181"></a>
+<a title="See SAW" href="https://github.com/lannocc/lannocc/blob/main/me/README.md"><img alt="S.A.W." src="https://github.com/lannocc/lannocc/raw/main/me/received_685931809239101.jpeg" align="left" width="181"></a>
 
 - [Art](https://github.com/lannocc/lannocc/blob/main/art/README.md)
 - [AutoMobile](https://github.com/lannocc/lannocc/blob/main/automobile/README.md)
