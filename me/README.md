@@ -62,8 +62,8 @@
   <img src="https://github.com/lannocc/lannocc/raw/main/me/IMG_20210412_014757.jpg" width="32%">
 </p>
 <p>
-  <img src="https://github.com/lannocc/lannocc/raw/main/me/IMG_20211102_214633.jpg" width="30%">
-  <img src="https://github.com/lannocc/lannocc/raw/main/me/IMG_20211102_214545.jpg" width="65%">
+  <img src="https://github.com/lannocc/lannocc/raw/main/me/IMG_20211102_214633.jpg" width="35%">
+  <img src="https://github.com/lannocc/lannocc/raw/main/me/IMG_20211102_214545.jpg" width="63%">
 </p>
 <p>
   <img src="https://github.com/lannocc/lannocc/raw/main/me/received_422604669247001.jpeg">
