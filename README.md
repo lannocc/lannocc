@@ -157,9 +157,10 @@ I am actively looking for work in the Billings, Montana area or remote: [view r√
 
 ## GitHub Stats
 
-[![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=lannocc&show_icons=true&theme=moltack&include_all_commits=true&count_private=true)](https://github.com/lannocc)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lannocc&langs_count=6&layout=compact&exclude_repo=bitcoin-abc)](https://github.com/lannocc)
+<a href="https://github.com/lannocc?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannocc&langs_count=6&layout=compact&exclude_repo=bitcoin-abc" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=lannocc&show_icons=true&theme=moltack&include_all_commits=true&count_private=true" width="54%">
+</a>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=lannocc&theme=matrix&columns=-1)](https://github.com/lannocc) -->
 
