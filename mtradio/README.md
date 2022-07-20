@@ -25,8 +25,10 @@
   <img src="https://github.com/lannocc/lannocc/raw/main/mtradio/demanding_progress.jpg" width="49%">
 </p>
 <p>
-  <img src="https://github.com/lannocc/lannocc/raw/main/mtradio/psight_unseen.jpg" width="49%">
-  <img src="https://github.com/lannocc/lannocc/raw/main/mtradio/soul.jpg" width="49%">
+  <img src="https://github.com/lannocc/lannocc/raw/main/mtradio/psight_unseen.jpg" width="99%">
+</p>
+<p>
+  <img src="https://github.com/lannocc/lannocc/raw/main/mtradio/soul.jpg" width="99%">
 </p>
 <p>
   <img src="https://github.com/lannocc/lannocc/raw/main/mtradio/mtradio.jpg" width="55%" align="right">
