@@ -7,16 +7,6 @@
 Actively looking for work in the Billings, Montana area or remote: [view résumé](https://github.com/lannocc/lannocc/blob/main/resume-lannocc-billings2022.pdf)
 
 
-## Connect
-
-<a title="lannocc on LinkedIn" href="https://linkedin.com/in/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/linkedin.svg" height="30" width="40" /></a>
-<a title="lannocc on Facebook" href="https://facebook.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/facebook.svg" height="30" width="40" /></a>
-<a title="lannocc on Instagram" href="https://instagram.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/instagram.svg" height="30" width="40" /></a>
-<a title="lannocc on Twitter" href="https://twitter.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/twitter.svg" height="30" width="40" /></a>
-<a title="lannocc on YouTube" href="https://youtube.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/youtube.svg" height="30" width="40" /></a>
-<a title="lannocc on Patreon" href="https://patreon.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/patreon.svg" height="30" width="40" /></a>
-
-
 ## My Story in Software
 
 *(click to expand the following sections... and click images to see more)*
@@ -183,3 +173,13 @@ I am actively looking for work in the Billings, Montana area or remote: [view r�
 - [MTRadio.Net](https://github.com/lannocc/lannocc/blob/main/mtradio/README.md)
 - [Mupen64Plus](https://github.com/lannocc/lannocc/blob/main/mupen64plus/README.md)
 - [S.A.W. (me)](https://github.com/lannocc/lannocc/blob/main/me/README.md)
+
+
+## Connect
+
+<a title="lannocc on LinkedIn" href="https://linkedin.com/in/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/linkedin.svg" height="30" width="40" /></a>
+<a title="lannocc on Facebook" href="https://facebook.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/facebook.svg" height="30" width="40" /></a>
+<a title="lannocc on Instagram" href="https://instagram.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/instagram.svg" height="30" width="40" /></a>
+<a title="lannocc on Twitter" href="https://twitter.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/twitter.svg" height="30" width="40" /></a>
+<a title="lannocc on YouTube" href="https://youtube.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/youtube.svg" height="30" width="40" /></a>
+<a title="lannocc on Patreon" href="https://patreon.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/patreon.svg" height="30" width="40" /></a>
