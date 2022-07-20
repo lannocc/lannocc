@@ -6,6 +6,7 @@
 
 Actively looking for work in the Billings, Montana area or remote: [view r√©sum√©](https://github.com/lannocc/lannocc/blob/main/resume-lannocc-billings2022.pdf)
 
+
 ## Connect
 
 <a title="lannocc on LinkedIn" href="https://linkedin.com/in/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/linkedin.svg" height="30" width="40" /></a>
@@ -14,6 +15,7 @@ Actively looking for work in the Billings, Montana area or remote: [view r√©sum√
 <a title="lannocc on Twitter" href="https://twitter.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/twitter.svg" height="30" width="40" /></a>
 <a title="lannocc on YouTube" href="https://youtube.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/youtube.svg" height="30" width="40" /></a>
 <a title="lannocc on Patreon" href="https://patreon.com/lannocc" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/patreon.svg" height="30" width="40" /></a>
+
 
 ## My Story in Software
 
@@ -163,3 +165,13 @@ I am actively looking for work in the Billings, Montana area or remote: [view r√
 
 <!-- [![View Counter](https://komarev.com/ghpvc/?username=lannocc&color=blueviolet)](https://github.com/lannocc) -->
 
+
+## Visual Portfolio
+
+- [Art](https://github.com/lannocc/lannocc/blob/main/art/README.md)
+- [AutoMobile](https://github.com/lannocc/lannocc/blob/main/automobile/README.md)
+- [CryptoCoinEx](https://github.com/lannocc/lannocc/blob/main/cryptocoinex/README.md)
+- [Equipment](https://github.com/lannocc/lannocc/blob/main/equipment/README.md)
+- [IOVAR](https://github.com/lannocc/lannocc/blob/main/iovar/README.md)
+- [Jobs](https://github.com/lannocc/lannocc/blob/main/jobs/README.md)
+- [K-OS](https://github.com/lannocc/lannocc/blob/main/k-os/README.md)
