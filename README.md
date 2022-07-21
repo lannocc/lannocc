@@ -94,7 +94,7 @@ In April, 2021, <a href="https://github.com/lannocc/lannocc/blob/main/jobs/Brink
 
 
 <details>
-<summary><b>Voluntary Ventures</b> (2013-2017)</summary>
+<summary><b>Various Ventures</b> (2013-2017)</summary>
 
 #### Arduinos with Alpha Griffin
 (details soon)
@@ -110,7 +110,7 @@ In April, 2021, <a href="https://github.com/lannocc/lannocc/blob/main/jobs/Brink
 
 
 <details>
-<summary><b>Coding for Cryptocurrency</b> (2017-2019)</summary>
+<summary><b>Coding with Cryptocurrency</b> (2017-2019)</summary>
 
 #### CryptoCoinEx
 (details soon)
