@@ -81,15 +81,29 @@ In April, 2021, <a href="https://github.com/lannocc/lannocc/blob/main/jobs/Brink
 <details>
 <summary><b>Independent Initiative</b> (2010-2013)</summary>
 
-#### Billings Linux Users Group
-(details soon)
+#### Billings Linux Users Group & Others
+<p>
+Even while I had regular employment it was still important to me to play a part in the larger community, so I joined the BillingsLUG shortly after moving to Montana. Through this group I met some wonderful people and learned about useful technology and techniques. By personally organizing and presenting at a number of meetings I was able to give back by sharing my own experiences.
+</p>
+<p>
+On January 16, 2013, myself and others in the BillingsLUG were interviewed for a segment about Linux on the local NBC affiliate KULR-8 News @ 10:
+</p>
+<p>
 <a title="Play Video" href="https://user-images.githubusercontent.com/11672586/179314377-f9d87440-a702-478e-928f-e2ec55e388ec.mp4"><img src="https://github.com/lannocc/lannocc/raw/main/blug/LANNOCC-BLUG-KULR8.png"></a>
+</p>
+<p>
+Aside from the BillingsLUG, I also participated in the BillingsJUG (Java User's Group) and was local organizer for Billings of the MT Programmers Meetup.
+</p>
 
-#### A Web Development Platform
-(details soon)
+#### IOVAR: A Web Development Platform
+<p>
+In 2011 I started writing code for what was to become the largest project I've ever independently undertaken. The idea was simple, but profound: a web development platform which follows Unix design principles. As a well-defined and multi-platform "systems" language, Java was chosen for the core. Data would be encapsulated as XML, and XSLT used to present it on the web or terminal. Simple BASH-like shell scripts tie it all together.
+</p>
+<p>
 <a title="IOVAR Web Platform and Shell" href="https://github.com/lannocc/iovar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannocc&repo=iovar">
 </a>
+</p>
 </details>
 
 
