@@ -86,23 +86,26 @@ In April, 2021, <a href="https://github.com/lannocc/lannocc/blob/main/jobs/Brink
 Even while I had regular employment it was still important to me to play a part in the larger community, so I joined the BillingsLUG shortly after moving to Montana. Through this group I met some wonderful people and learned about useful technology and techniques. By personally organizing and presenting at a number of meetings I was able to give back by sharing my own experiences.
 </p>
 <p>
-On January 16, 2013, myself and others in the BillingsLUG were interviewed for a segment about Linux on the local NBC affiliate KULR-8 News @ 10:
+<i>On January 16, 2013, myself and others in the BillingsLUG were interviewed for a segment about Linux on the local NBC affiliate KULR-8 News @ 10:</i>
 </p>
 <p>
 <a title="Play Video" href="https://user-images.githubusercontent.com/11672586/179314377-f9d87440-a702-478e-928f-e2ec55e388ec.mp4"><img src="https://github.com/lannocc/lannocc/raw/main/blug/LANNOCC-BLUG-KULR8.png"></a>
 </p>
 <p>
-Aside from the BillingsLUG, I also participated in the BillingsJUG (Java User's Group) and was local organizer for Billings of the MT Programmers Meetup.
+Aside from the BillingsLUG, I also participated in the BillingsJUG (Java User's Group), MTSpace, TecNet, the first TEDxBillings, and was local Billings organizer for the MT Programmers Meetup.
 </p>
 
 #### IOVAR: A Web Development Platform
 <p>
-In 2011 I started writing code for what was to become the largest project I've ever independently undertaken. The idea was simple, but profound: a web development platform which follows Unix design principles. As a well-defined and multi-platform "systems" language, Java was chosen for the core. Data would be encapsulated as XML, and XSLT used to present it on the web or terminal. Simple BASH-like shell scripts tie it all together.
+In 2011, I started writing code for what was to become the largest project I've ever independently undertaken. The idea was simple, but profound: a web development platform which follows Unix design principles. As a well-defined and multi-platform "systems" language, Java was chosen for the core. Data would be encapsulated as XML, and XSLT used to present it on the web or terminal. Simple BASH-like shell scripts tie it all together.
 </p>
 <p>
 <a title="IOVAR Web Platform and Shell" href="https://github.com/lannocc/iovar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannocc&repo=iovar">
 </a>
+</p>
+<p>
+Although still not considered "complete", the IOVAR platform did mature enough that it was ultimately used in production for a number of websites, including MTRadio.Net (more on that in the next section).
 </p>
 </details>
 
@@ -110,12 +113,17 @@ In 2011 I started writing code for what was to become the largest project I've e
 <details>
 <summary><b>Various Ventures</b> (2013-2017)</summary>
 
-#### Arduinos with Alpha Griffin
+#### MTRadio.Net Internet Broadcasting
+<p>
+On the afternoon of November 5, 2013, a friend mentioned to me how he was interested in starting a podcast. I replied that I had always had a passing interest in broadcasting, so how hard could it be? He left to have a couple drinks at the nearby pub and upon his return we were ready to go live with a cheap microphone, Shoutcast stream, and simple website player. Thus began a four-year immensely entertaining adventure in broadcasting!
+</p>
+<p>
+MTRadio.Net blossomed into a full-fledged custom broadcasting platform built on top of the IOVAR platform and other open-source tools. Focused on Montana talent, we engineered and aired a number of weekly live radio shows and curated playlists of a number of local bands. The custom player presented an image rotation of the currently playing artist over a backdrop of the town/city they were from.
+</p>
+
+#### Arduinos and A.I. with Alpha Griffin
 (details soon)
 <a title="Play Video" href="https://youtu.be/aZwKoMAQq0c"><img src="https://github.com/lannocc/lannocc/raw/main/automobile/AlphaGriffin-AutoMobile-MTP.png"></a>
-
-#### MTRadio.Net Internet Broadcasting
-(details soon)
 
 #### Tying it Together with Virgo Venture
 (details soon)
@@ -126,13 +134,13 @@ In 2011 I started writing code for what was to become the largest project I've e
 <details>
 <summary><b>Coding with Cryptocurrency</b> (2017-2019)</summary>
 
-#### CryptoCoinEx
-(details soon)
-
 #### Aventus Audit
 (details soon)
 
-#### Tokens on Bitcoin Cash
+#### CryptoCoinEx
+(details soon)
+
+#### Bitcoin Cash Tokens
 (details soon)
 <a title="Tokens for Bitcoin Cash" href="https://github.com/AlphaGriffin/orbit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaGriffin&repo=orbit">
