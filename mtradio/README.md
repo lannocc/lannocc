@@ -13,8 +13,11 @@
   <img src="https://github.com/lannocc/lannocc/raw/main/mtradio/2021-01-06(11).jpg" width="99%">
 </p>
 <p>
-  <img src="https://github.com/lannocc/lannocc/raw/main/mtradio/standby.png" width="67%">
-  <img src="https://github.com/lannocc/lannocc/raw/main/mtradio/2021-01-05(7).jpg" width="31%">
+  <img src="https://github.com/lannocc/lannocc/raw/main/mtradio/1015034_10152387375995757_750699941_o.png" width="65%">
+  <img src="https://github.com/lannocc/lannocc/raw/main/mtradio/2021-01-05(7).jpg" width="33%">
+</p>
+<p>
+  <img src="https://github.com/lannocc/lannocc/raw/main/mtradio/standby.png" width="99%">
 </p>
 <p>
   <img src="https://github.com/lannocc/lannocc/raw/main/mtradio/intelscanner-banner.png" width="72%">
