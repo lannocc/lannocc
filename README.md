@@ -128,7 +128,7 @@ MTRadio.Net blossomed into a full-fledged custom broadcasting platform built on 
 #### Arduinos and A.I. with Alpha Griffin
 <p>
 <a title="View AutoMobile Images" href="https://github.com/lannocc/lannocc/blob/main/automobile/README.md"><img src="https://github.com/lannocc/lannocc/raw/main/automobile/20170125_112036.jpg" align="right" width="33%"></a>
-I met Eric Petersen when he was a guest on MTRadio.Net's The IntelScanner show and it wasn't long before we were chatting about technology and his Arduino-based rover project. This was my first introduction to Arduino technology but we quickly found we made a good team and were able to push a number of projects forward. Our small team came to be known as Alpha Griffin and we developed working prototypes for a rover, quad-rotor UAV, and remote control all running our own custom software platform named AutoMobile.
+I met <a href="https://github.com/ruckusist">Eric Petersen</a> when he was a guest on MTRadio.Net's The IntelScanner show and it wasn't long before we were chatting about technology and his Arduino-based rover project. This was my first introduction to Arduino technology but we quickly found we made a good team and were able to push a number of projects forward. Our small team came to be known as Alpha Griffin and we developed working prototypes for a rover, quad-rotor UAV, and remote control all running our own custom software platform named AutoMobile.
 </p>
 <p>
 <i>On October 21, 2015, Eric and I live-streamed our AutoMobile presentation to the Billings Montana Programmers Meetup:</i>
