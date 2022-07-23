@@ -2,7 +2,7 @@
 
 [![Banner](https://github.com/lannocc/lannocc/raw/main/banner.png)](https://github.com/lannocc)
 
-### 👯 I’m currently seeking regular employment (July, 2022)
+### 👯 I’m currently seeking regular employment (July, 2022) 👯
 
 Actively looking for work in the Billings, Montana area or remote: [view résumé](https://github.com/lannocc/lannocc/blob/main/resume-lannocc-billings2022.pdf)
 
@@ -122,12 +122,26 @@ MTRadio.Net blossomed into a full-fledged custom broadcasting platform built on 
 </p>
 
 #### Arduinos and A.I. with Alpha Griffin
-(details soon)
+<p>
+I met Eric Petersen when he was a guest on MTRadio.Net's The IntelScanner show and it wasn't long before we were chatting about technology and his Arduino-based rover project. This was my first introduction to Arduino technology but we quickly found we made a good team and were able to push a number of projects forward. Our small team came to be known as Alpha Griffin and we developed working prototypes for a rover, quad-rotor UAV, and remote control all running our own custom software platform named AutoMobile.
+</p>
+<p>
+<i>On October 21, 2015, Eric and I live-streamed our AutoMobile presentation to the Billings Montana Programmers Meetup:</i>
+</p>
+<p>
 <a title="Play Video" href="https://youtu.be/aZwKoMAQq0c"><img src="https://github.com/lannocc/lannocc/raw/main/automobile/AlphaGriffin-AutoMobile-MTP.png"></a>
+</p>
+<p>
+Beyond Arduinos, Alpha Griffin continues to develop technology in the areas of IoT devices, A.I. (artificial neural networks), financial trading, and more.
+</p>
 
-#### Tying it Together with Virgo Venture
-(details soon)
+#### Together with Virgo Venture
+<p>
+With all the R&D involved with the above (IOVAR, MTRadio.Net, Alpha Griffin), and the more personal time that they consumed, there was an increasing necessity to attempt to commercialize this work and streamline development. Virgo Venture was formed for this purpose. Though ultimately unsuccessful, the attempt is now immortalized in our first and only edition of the newsletter known as Virgin Alamanac:
+</p>
+<p>
 <img title="Virgin Almanac" src="https://github.com/lannocc/lannocc/raw/main/virgin_almanac.png">
+</p>
 </details>
 
 
@@ -179,7 +193,7 @@ I am actively looking for work in the Billings, Montana area or remote: [view r�
 <!-- [![View Counter](https://komarev.com/ghpvc/?username=lannocc&color=blueviolet)](https://github.com/lannocc) -->
 
 
-## Portfolio in Pictures
+## Picture Portfolio
 
 <a title="See SAW" href="https://github.com/lannocc/lannocc/blob/main/me/README.md"><img alt="S.A.W." src="https://github.com/lannocc/lannocc/raw/main/me/received_685931809239101.jpeg" align="right" width="172"></a>
 
