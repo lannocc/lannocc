@@ -92,7 +92,7 @@ Even while I had regular employment it was still important to me to play a part 
 <a title="Play Video" href="https://user-images.githubusercontent.com/11672586/179314377-f9d87440-a702-478e-928f-e2ec55e388ec.mp4"><img src="https://github.com/lannocc/lannocc/raw/main/blug/LANNOCC-BLUG-KULR8.png"></a>
 </p>
 <p>
-Aside from the BillingsLUG, I also participated in the BillingsJUG (Java User's Group), MTSpace, TecNet, the first TEDxBillings, and was local Billings organizer for the MT Programmers Meetup.
+Aside from the BillingsLUG, I also participated in the BillingsJUG (Java User's Group), MTSpace, TecNet, the first TEDxBillings, and was local Billings organizer for the MT Programmers Meetup group.
 </p>
 
 #### IOVAR: A Web Development Platform
@@ -148,7 +148,7 @@ With all the R&D involved with the above (IOVAR, MTRadio.Net, Alpha Griffin), an
 <details>
 <summary><b>Coding with Cryptocurrency</b> (2017-2019)</summary>
 
-#### Aventus Audit
+#### Auditing Aventus
 (details soon)
 
 #### CryptoCoinEx
