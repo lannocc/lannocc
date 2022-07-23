@@ -118,7 +118,7 @@ Although still not considered "complete", the IOVAR platform did mature enough t
 On the afternoon of November 5, 2013, a friend mentioned to me how he was interested in starting a podcast. I replied that I had always had a passing interest in broadcasting, so how hard could it be? He left to have a couple drinks at the nearby pub and upon his return we were ready to go live with a cheap microphone, Shoutcast stream, and simple website player. Thus began a four-year immensely entertaining adventure in broadcasting!
 </p>
 <p>
-MTRadio.Net blossomed into a full-fledged custom broadcasting platform built on top of the IOVAR platform and other open-source tools. Focused on Montana talent, we engineered and aired a number of weekly live radio shows and curated playlists of a number of local bands. The custom player presented an image rotation of the currently playing artist over a backdrop of the town/city they were from.
+MTRadio.Net blossomed into a full-fledged custom broadcasting platform built on top of the IOVAR platform and other open-source tools. The custom player presented an image rotation of the currently playing artist over a backdrop of the town/city they were from. Focused on Montana talent, we engineered and aired a number of weekly live radio shows, curated playlists of a number of local bands, and sponsored some small local concerts.
 </p>
 
 #### Arduinos and A.I. with Alpha Griffin
@@ -179,7 +179,7 @@ I am actively looking for work in the Billings, Montana area or remote: [view r√
 <!-- [![View Counter](https://komarev.com/ghpvc/?username=lannocc&color=blueviolet)](https://github.com/lannocc) -->
 
 
-## Visual Portfolio
+## Portfolio in Pictures
 
 <a title="See SAW" href="https://github.com/lannocc/lannocc/blob/main/me/README.md"><img alt="S.A.W." src="https://github.com/lannocc/lannocc/raw/main/me/received_685931809239101.jpeg" align="right" width="172"></a>
 
