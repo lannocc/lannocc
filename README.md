@@ -97,11 +97,12 @@ Aside from the BillingsLUG, I also participated in the BillingsJUG (Java User's 
 
 #### IOVAR: A Web Development Platform
 <p>
+<a title="View IOVAR Images" href="https://github.com/lannocc/lannocc/blob/main/iovar/README.md"><img src="https://github.com/lannocc/lannocc/raw/main/iovar/Screen%20Shot%202018-12-30%20at%207.20.33%20AM.png" align="right" width="40%"><img src="https://github.com/lannocc/lannocc/raw/main/iovar/logo.png" width="20%" align="right"></a>
 In 2011, I started writing code for what was to become the largest project I've ever independently undertaken. The idea was simple, but profound: a web development platform which follows Unix design principles. As a well-defined and multi-platform "systems" language, Java was chosen for the core. Data would be encapsulated as XML, and XSLT used to present it on the web or terminal. Simple BASH-like shell scripts tie it all together.
 </p>
 <p>
 <a title="IOVAR Web Platform and Shell" href="https://github.com/lannocc/iovar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannocc&repo=iovar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannocc&repo=iovar" width="55%">
 </a>
 </p>
 <p>
