@@ -102,7 +102,7 @@ In 2011, I started writing code for what was to become the largest project I've 
 </p>
 <p>
 <a title="IOVAR Web Platform and Shell" href="https://github.com/lannocc/iovar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannocc&repo=iovar" width="55%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lannocc&repo=iovar" width="55%">
 </a>
 </p>
 <p>
@@ -128,7 +128,7 @@ MTRadio.Net blossomed into a full-fledged custom broadcasting platform built on 
 #### Arduinos and A.I. with Alpha Griffin
 <p>
 <a title="View AutoMobile Images" href="https://github.com/lannocc/lannocc/blob/main/automobile/README.md"><img src="https://github.com/lannocc/lannocc/raw/main/automobile/20170125_112036.jpg" align="right" width="33%"></a>
-I met <a href="https://github.com/ruckusist">Eric Petersen</a> when he was a guest on MTRadio.Net's The IntelScanner show and it wasn't long before we were chatting about technology and his Arduino-based rover project. This was my first introduction to Arduino technology but we quickly found we made a good team and were able to push a number of projects forward. Our small team came to be known as Alpha Griffin and we developed working prototypes for a rover, quad-rotor UAV, and remote control all running our own custom software platform named AutoMobile.
+I met <a href="https://github.com/ruckusist">Eric Petersen</a> when he was a guest on MTRadio.Net's The IntelScanner show and it wasn't long before we were chatting about technology and his Arduino-based rover project. This was my first introduction to Arduino technology but we quickly found we made a good team and were able to push a number of projects forward. Our small team came to be known as Alpha Griffin and we developed working prototypes for a rover, quad-rotor UAV, and remote control system all running our own proprietary software platform named AutoMobile.
 </p>
 <p>
 <i>On October 21, 2015, Eric and I live-streamed our AutoMobile presentation to the Billings Montana Programmers Meetup:</i>
@@ -152,37 +152,47 @@ With all the R&D involved with the above (IOVAR, MTRadio.Net, Alpha Griffin), an
 
 <details>
 <summary><b>Coding with Cryptocurrency</b> (2017-2019)</summary>
-
-#### Auditing Aventus
-(details soon)
+<p>
+Bitcoin went public in 2009, and sometime in the first couple years of its operation is when I heard about it. It piqued my interest because I was also thinking deeply about concepts of money and currency at the time, but when I came to understand more about the energy requirements for its operation I began to disregard it since it was not compatible with my ideals.
+</p>
 
 #### CryptoCoinEx
+<p>
+Fast-forward to spring 2017 and the landscape of cryptocurrency and blockchain technology was now very different than its early years. Specifically, the rise of the Ethereum computing platform was fascinating to me, so I began to dig deeper into the growing plethora of projects and start some small-scale trading.
+</p>
+<p>
+Because I'm a programmer, not a financial trader, I spent a few months through the summer just learning the fundamentals of fintech and developing my own tool to help me out which I call CryptoCoinEx (short for Cryptocurrency Coin Exchanging). It's separated into a client-server model with a Python client utilizing the Qt GUI toolkit communicating with a server-side process with SQL database.
+</p>
+
+#### Auditing Aventus
 (details soon)
 
 #### Bitcoin Cash Tokens
 (details soon)
 <a title="Tokens for Bitcoin Cash" href="https://github.com/AlphaGriffin/orbit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaGriffin&repo=orbit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaGriffin&repo=orbit">
+</a>
+
+@@BitcoinABC@@
+</details>
+
+
+<details>
+<summary><b>Arkansas, Art, and K-OS</b> (2019-2022)</summary>
+<a title="See all Art" href="https://github.com/lannocc/lannocc/blob/main/art/README.md">
+<img title="k5" src="https://github.com/lannocc/lannocc/raw/main/art/k5.png">
+<img title="k4" src="https://github.com/lannocc/lannocc/raw/main/art/k4.png" width="27%">
+<img title="k3" src="https://github.com/lannocc/lannocc/raw/main/art/k3.png" width="40%">
+<img title="k7" src="https://github.com/lannocc/lannocc/raw/main/art/k7.png" width="30%">
 </a>
 </details>
 
 
 <details>
-  <summary><b>Arkansas, Art, and K-OS</b> (2019-2022)</summary>
-  <a title="See all Art" href="https://github.com/lannocc/lannocc/blob/main/art/README.md">
-    <img title="k5" src="https://github.com/lannocc/lannocc/raw/main/art/k5.png">
-    <img title="k4" src="https://github.com/lannocc/lannocc/raw/main/art/k4.png" width="27%">
-    <img title="k3" src="https://github.com/lannocc/lannocc/raw/main/art/k3.png" width="40%">
-    <img title="k7" src="https://github.com/lannocc/lannocc/raw/main/art/k7.png" width="30%">
-  </a>
-</details>
-
-
-<details>
-  <summary><b>Future Focus</b> (2022-????)</summary>
-  
+<summary><b>Future Focus</b> (2022-????)</summary>
+<p>
 I am actively looking for work in the Billings, Montana area or remote: [view résumé](https://github.com/lannocc/lannocc/blob/main/resume-lannocc-billings2022.pdf)
-
+</p>
 </details>
 
 
