@@ -116,6 +116,8 @@ Although still not considered "complete", the IOVAR platform did mature enough t
 
 #### MTRadio.Net Internet Broadcasting
 <p>
+<img src="https://github.com/lannocc/lannocc/raw/main/mtradio/2021-01-05(7).jpg" align="right" width="24%">
+<img src="https://github.com/lannocc/lannocc/raw/main/mtradio/2021-01-06(11).jpg" width="72%">
 On the afternoon of November 5, 2013, a friend mentioned to me how he was interested in starting a podcast. I replied that I had always had a passing interest in broadcasting, so how hard could it be? He left to have a couple drinks at the nearby pub and upon his return we were ready to go live with a cheap microphone, Shoutcast stream, and simple website player. Thus began a four-year immensely entertaining adventure in broadcasting!
 </p>
 <p>
