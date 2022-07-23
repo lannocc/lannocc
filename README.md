@@ -2,7 +2,7 @@
 
 [![Banner](https://github.com/lannocc/lannocc/raw/main/banner.png)](https://github.com/lannocc)
 
-### 👯 I’m currently seeking regular employment (July, 2022) 👯
+### 🙋💻 I’m currently seeking regular employment (July, 2022) 💻🙋
 
 Actively looking for work in the Billings, Montana area or remote: [view résumé](https://github.com/lannocc/lannocc/blob/main/resume-lannocc-billings2022.pdf)
 
