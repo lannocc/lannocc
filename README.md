@@ -185,7 +185,21 @@ In July, 2018 the Bitcoin Cash team were seeking proposals to implement BCH toke
 
 
 <details>
-<summary><b>Arkansas, Art, and K-OS</b> (2019-2022)</summary>
+<summary><b>Art and K-OS in Arkansas</b> (2019-2022)</summary>
+<p>
+In summer 2021 I moved to rural Arkansas to be with some family so we could help each other out. The quiet isolation has allowed for the development of some new ideas and techniques...
+</p>
+
+#### K-OS: The Keyframe Operating System
+<p>
+K-OS (pronounced "chaos") is my most recent development. It is named somewhat ironically because it is not a true operating system in the traditional sense. So what is it then? K-OS is a glorified video editor, media player, live remixer, realtime capture and paint program. K-OS is fun to use. K-OS is fun to develop.
+</p>
+<p>
+Developed in Python, K-OS utilizes pygame, pygame_gui, and ffmpeg libraries. Since it currently has a YouTube focus, is also uses youtube-dl to retrieve videos.
+</p>
+
+#### My Art
+
 <a title="See all Art" href="https://github.com/lannocc/lannocc/blob/main/art/README.md">
 <img title="k5" src="https://github.com/lannocc/lannocc/raw/main/art/k5.png">
 <img title="k4" src="https://github.com/lannocc/lannocc/raw/main/art/k4.png" width="27%">
