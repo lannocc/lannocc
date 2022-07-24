@@ -198,7 +198,7 @@ In July, 2018 the Bitcoin Cash team were seeking proposals to implement BCH toke
 <details>
 <summary><b>Future Focus</b> (2022-????)</summary>
 <p>
-I am actively looking for work in the Billings, Montana area or remote: [view résumé](https://github.com/lannocc/lannocc/blob/main/resume-lannocc-billings2022.pdf)
+I am actively looking for work in the Billings, Montana area or remote: <a href="https://github.com/lannocc/lannocc/blob/main/resume-lannocc-billings2022.pdf">view résumé</a>
 </p>
 </details>
 
