@@ -209,8 +209,8 @@ In tandem with K-OS development I also discovered a technique for the creation o
 </p>
 <p>
 <a title="See all Art" href="https://github.com/lannocc/lannocc/blob/main/art/README.md">
-<img title="k5" src="https://github.com/lannocc/lannocc/raw/main/art/k5.png" width="69%">
-<img title="k7" src="https://github.com/lannocc/lannocc/raw/main/art/k7.png" width="29%">
+<img src="https://github.com/lannocc/lannocc/raw/main/art/k5.png" width="69%">
+<img src="https://github.com/lannocc/lannocc/raw/main/art/k7.png" width="29%">
 </a>
 </details>
 
