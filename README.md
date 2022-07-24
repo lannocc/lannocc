@@ -158,6 +158,7 @@ Bitcoin went public in 2009, and sometime in the first couple years of its opera
 
 #### CryptoCoinEx
 <p>
+<a title="View CryptoCoinEx Images" href="https://github.com/lannocc/lannocc/blob/main/cryptocoinex/README.md"><img src="https://github.com/lannocc/lannocc/raw/main/cryptocoinex/Screen%20Shot%202017-09-10%20at%207.02.10%20PM.png" width="40%" align="right"></a>
 Fast-forward to spring 2017 and the landscape of cryptocurrency and blockchain technology was now very different than its early years. Specifically, the rise of the Ethereum computing platform was fascinating to me, so I began to dig deeper into the growing plethora of projects and start some small-scale trading.
 </p>
 <p>
@@ -171,6 +172,7 @@ It wasn't enough that I program tools for cryptocurrency, I wanted to program on
 
 #### Bitcoin Cash Tokens
 <p>
+<a title="View Misc. Images" href="https://github.com/lannocc/lannocc/blob/main/misc/README.md"><img src="https://github.com/lannocc/lannocc/raw/main/misc/Screen%20Shot%202018-08-10%20at%2011.38.33%20AM.png" width="40%" align="right"></a>
 In July, 2018 the Bitcoin Cash team were seeking proposals to implement BCH tokens. I was a late contributor with my entry but did get quite a bit worked out in that time. It was fun getting to know the internals of bitcoin processing and I did make a small contribution that was accepted into the BitcoinABC implementation.
 </p>
 <p>
