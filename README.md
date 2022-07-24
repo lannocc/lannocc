@@ -204,12 +204,13 @@ Developed in Python, K-OS utilizes pygame, pygame_gui, and ffmpeg libraries. Sin
 </p>
 
 #### My Art
-
+<p>
+In tandem with K-OS development I also discovered a technique for the creation of digital art from video:
+</p>
+<p>
 <a title="See all Art" href="https://github.com/lannocc/lannocc/blob/main/art/README.md">
-<img title="k5" src="https://github.com/lannocc/lannocc/raw/main/art/k5.png">
-<img title="k4" src="https://github.com/lannocc/lannocc/raw/main/art/k4.png" width="27%">
-<img title="k3" src="https://github.com/lannocc/lannocc/raw/main/art/k3.png" width="40%">
-<img title="k7" src="https://github.com/lannocc/lannocc/raw/main/art/k7.png" width="30%">
+<img title="k5" src="https://github.com/lannocc/lannocc/raw/main/art/k5.png" width="69%">
+<img title="k7" src="https://github.com/lannocc/lannocc/raw/main/art/k7.png" width="29%">
 </a>
 </details>
 
