@@ -153,7 +153,7 @@ With all the R&D involved with the above (IOVAR, MTRadio.Net, Alpha Griffin), an
 <details>
 <summary><b>Coding with Cryptocurrency</b> (2017-2019)</summary>
 <p>
-Bitcoin went public in 2009, and sometime in the first couple years of its operation is when I heard about it. It piqued my interest because I was also thinking deeply about concepts of money and currency at the time, but when I came to understand more about the energy requirements for its operation I began to disregard it since it was not compatible with my ideals.
+Bitcoin went public in 2009, and sometime in the first couple years of its operation is when I heard about it. It piqued my interest because I was also thinking deeply about concepts of money and currency at the time, but when I came to understand more about the energy requirements for its operation I started disregarding it since it was not compatible with my ideals.
 </p>
 
 #### CryptoCoinEx
@@ -165,15 +165,20 @@ Because I'm a programmer, not a financial trader, I spent a few months through t
 </p>
 
 #### Auditing Aventus
-(details soon)
+<p>
+It wasn't enough that I program tools for cryptocurrency, I wanted to program on the blockchain itself. I was already following the Aventus project because I liked their idea for event ticketing, but noticed they had a bug bounty posted for the crowdsale contract for their upcoming ICO on Ethereum. This only gave me about a week's notice, but I went all in and learned Solidity and identified a few issues in the contract and claimed the reward.
+</p>
 
 #### Bitcoin Cash Tokens
-(details soon)
+<p>
+In July, 2018 the Bitcoin Cash team were seeking proposals to implement BCH tokens. I was a late contributor with my entry but did get quite a bit worked out in that time. It was fun getting to know the internals of bitcoin processing and I did make a small contribution that was accepted into the BitcoinABC implementation.
+</p>
+<p>
 <a title="Tokens for Bitcoin Cash" href="https://github.com/AlphaGriffin/orbit">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaGriffin&repo=orbit">
 </a>
+</p>
 
-@@BitcoinABC@@
 </details>
 
 
