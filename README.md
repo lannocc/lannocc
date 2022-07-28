@@ -197,7 +197,7 @@ In summer 2021 I moved to rural Arkansas to be with some family so we could help
 K-OS (pronounced "chaos") is my most recent development. It is named somewhat ironically because it is not a true operating system in the traditional sense. So what is it then? K-OS is a glorified video editor, media player, live remixer, realtime capture and paint program. K-OS is fun to use. K-OS is fun to develop.
 </p>
 <p>
-Developed in Python, K-OS utilizes pygame, pygame_gui, and ffmpeg libraries. Since it currently has a YouTube focus, is also uses youtube-dl to retrieve videos.
+Developed in Python, K-OS utilizes pygame, pygame_gui, and ffmpeg libraries. Since it currently has a YouTube focus, it also uses youtube-dl to retrieve videos.
 </p>
 <p>
 <a title="See more K-OS" href="https://github.com/lannocc/lannocc/blob/main/k-os/README.md"><img src="https://github.com/lannocc/lannocc/raw/main/k-os/IMG_20220529_152821.jpg" width="49%"><img src="https://github.com/lannocc/lannocc/raw/main/k-os/IMG_20220601_042404.jpg" width="49%"></a>
