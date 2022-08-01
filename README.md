@@ -226,8 +226,8 @@ I am actively looking for work in the Billings, Montana area or remote: <a href=
 ## GitHub Stats
 
 <a href="https://github.com/lannocc?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannocc&langs_count=6&layout=compact&exclude_repo=bitcoin-abc" width="44%">
-  <img src="https://github-readme-stats.vercel.app/api?username=lannocc&show_icons=true&theme=moltack&include_all_commits=true&count_private=true" width="53%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannocc&langs_count=6&layout=compact&exclude_repo=bitcoin-abc">
+  <!--img src="https://github-readme-stats.vercel.app/api?username=lannocc&show_icons=true&theme=moltack&include_all_commits=true&count_private=true" width="53%"-->
 </a>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=lannocc&theme=matrix&columns=-1)](https://github.com/lannocc) -->
