@@ -102,7 +102,7 @@ In 2011, I started writing code for what was to become the largest project I've 
 </p>
 <p>
 <a title="IOVAR Web Platform and Shell" href="https://github.com/lannocc/iovar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lannocc&repo=iovar" width="55%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lannocc&repo=iovar">
 </a>
 </p>
 <p>
